@@ -1,9 +1,9 @@
 [
   {
     "full_name": "lens-protocol/core",
-    "stargazers_count": 1738,
+    "stargazers_count": 1751,
     "open_issues_count": 33,
-    "forks_count": 376
+    "forks_count": 382
   },
   {
     "full_name": "CryptoNifters/lens-protocol",
@@ -13,14 +13,14 @@
   },
   {
     "full_name": "eth-brownie/brownie",
-    "stargazers_count": 2347,
+    "stargazers_count": 2351,
     "open_issues_count": 390,
-    "forks_count": 492
+    "forks_count": 493
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 840,
+    "stargazers_count": 841,
     "open_issues_count": 9,
-    "forks_count": 529
+    "forks_count": 533
   }
 ]
