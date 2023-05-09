@@ -1,8 +1,8 @@
 [
   {
     "full_name": "lens-protocol/core",
-    "stargazers_count": 1860,
-    "open_issues_count": 31,
+    "stargazers_count": 1864,
+    "open_issues_count": 20,
     "forks_count": 413
   },
   {
@@ -13,14 +13,14 @@
   },
   {
     "full_name": "eth-brownie/brownie",
-    "stargazers_count": 2438,
+    "stargazers_count": 2440,
     "open_issues_count": 402,
-    "forks_count": 521
+    "forks_count": 522
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 875,
     "open_issues_count": 9,
-    "forks_count": 607
+    "forks_count": 610
   }
 ]
