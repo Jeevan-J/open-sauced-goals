@@ -1,8 +1,8 @@
 [
   {
     "full_name": "arangodb/arangodb",
-    "stargazers_count": 13085,
-    "open_issues_count": 800,
+    "stargazers_count": 13093,
+    "open_issues_count": 801,
     "forks_count": 823
   },
   {
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "naiveHobo/InvoiceNet",
-    "stargazers_count": 2243,
+    "stargazers_count": 2247,
     "open_issues_count": 63,
-    "forks_count": 364
+    "forks_count": 365
   },
   {
     "full_name": "Jeevan-J/Speaker-voice-Recognition-using-MFCC-algorithm-in-matlab",
