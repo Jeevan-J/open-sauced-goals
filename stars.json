@@ -1,8 +1,14 @@
 [
   {
+    "full_name": "pyeve/eve",
+    "stargazers_count": 6670,
+    "open_issues_count": 43,
+    "forks_count": 747
+  },
+  {
     "full_name": "arangodb/arangodb",
-    "stargazers_count": 13405,
-    "open_issues_count": 782,
+    "stargazers_count": 13407,
+    "open_issues_count": 781,
     "forks_count": 831
   },
   {
