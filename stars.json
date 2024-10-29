@@ -1,20 +1,26 @@
 [
   {
+    "full_name": "fjwillemsen/Apple-Store-Stock-Notifier",
+    "stargazers_count": 51,
+    "open_issues_count": 5,
+    "forks_count": 10
+  },
+  {
     "full_name": "imSanjaySoni/NoteApp-Clean-Architecture",
-    "stargazers_count": 179,
+    "stargazers_count": 180,
     "open_issues_count": 0,
     "forks_count": 26
   },
   {
     "full_name": "pyeve/eve",
-    "stargazers_count": 6708,
+    "stargazers_count": 6709,
     "open_issues_count": 29,
     "forks_count": 744
   },
   {
     "full_name": "arangodb/arangodb",
-    "stargazers_count": 13553,
-    "open_issues_count": 775,
+    "stargazers_count": 13559,
+    "open_issues_count": 780,
     "forks_count": 838
   },
   {
