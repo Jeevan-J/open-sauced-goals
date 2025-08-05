@@ -1,21 +1,27 @@
 [
   {
+    "full_name": "presenton/presenton",
+    "stargazers_count": 1413,
+    "open_issues_count": 25,
+    "forks_count": 224
+  },
+  {
     "full_name": "juspay/hyperswitch",
-    "stargazers_count": 23249,
-    "open_issues_count": 966,
-    "forks_count": 3913
+    "stargazers_count": 24002,
+    "open_issues_count": 968,
+    "forks_count": 3929
   },
   {
     "full_name": "QwenLM/Qwen3-Coder",
-    "stargazers_count": 10545,
-    "open_issues_count": 31,
-    "forks_count": 734
+    "stargazers_count": 11272,
+    "open_issues_count": 39,
+    "forks_count": 768
   },
   {
     "full_name": "aaPanel/BillionMail",
-    "stargazers_count": 8363,
-    "open_issues_count": 105,
-    "forks_count": 702
+    "stargazers_count": 8437,
+    "open_issues_count": 109,
+    "forks_count": 717
   },
   {
     "full_name": "fjwillemsen/Apple-Store-Stock-Notifier",
@@ -25,20 +31,20 @@
   },
   {
     "full_name": "imSanjaySoni/NoteApp-Clean-Architecture",
-    "stargazers_count": 194,
+    "stargazers_count": 191,
     "open_issues_count": 0,
     "forks_count": 23
   },
   {
     "full_name": "pyeve/eve",
-    "stargazers_count": 6731,
+    "stargazers_count": 6728,
     "open_issues_count": 29,
     "forks_count": 745
   },
   {
     "full_name": "arangodb/arangodb",
-    "stargazers_count": 13882,
-    "open_issues_count": 784,
+    "stargazers_count": 13884,
+    "open_issues_count": 785,
     "forks_count": 857
   },
   {
@@ -55,7 +61,7 @@
   },
   {
     "full_name": "naiveHobo/InvoiceNet",
-    "stargazers_count": 2615,
+    "stargazers_count": 2617,
     "open_issues_count": 72,
     "forks_count": 408
   },
