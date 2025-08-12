@@ -1,27 +1,39 @@
 [
   {
+    "full_name": "keycloakify/keycloakify",
+    "stargazers_count": 2070,
+    "open_issues_count": 53,
+    "forks_count": 226
+  },
+  {
+    "full_name": "nima70/keycloakify-tailwind-shadcn",
+    "stargazers_count": 25,
+    "open_issues_count": 1,
+    "forks_count": 19
+  },
+  {
     "full_name": "presenton/presenton",
-    "stargazers_count": 1490,
-    "open_issues_count": 27,
-    "forks_count": 239
+    "stargazers_count": 1551,
+    "open_issues_count": 28,
+    "forks_count": 250
   },
   {
     "full_name": "juspay/hyperswitch",
-    "stargazers_count": 24013,
-    "open_issues_count": 961,
-    "forks_count": 3929
+    "stargazers_count": 24030,
+    "open_issues_count": 973,
+    "forks_count": 3926
   },
   {
     "full_name": "QwenLM/Qwen3-Coder",
-    "stargazers_count": 11528,
-    "open_issues_count": 45,
-    "forks_count": 787
+    "stargazers_count": 11808,
+    "open_issues_count": 52,
+    "forks_count": 801
   },
   {
     "full_name": "aaPanel/BillionMail",
-    "stargazers_count": 8519,
-    "open_issues_count": 112,
-    "forks_count": 722
+    "stargazers_count": 8584,
+    "open_issues_count": 115,
+    "forks_count": 728
   },
   {
     "full_name": "fjwillemsen/Apple-Store-Stock-Notifier",
@@ -39,13 +51,13 @@
     "full_name": "pyeve/eve",
     "stargazers_count": 6728,
     "open_issues_count": 29,
-    "forks_count": 745
+    "forks_count": 746
   },
   {
     "full_name": "arangodb/arangodb",
-    "stargazers_count": 13883,
-    "open_issues_count": 785,
-    "forks_count": 857
+    "stargazers_count": 13888,
+    "open_issues_count": 782,
+    "forks_count": 858
   },
   {
     "full_name": "CryptoNifters/lens-protocol",
@@ -61,9 +73,9 @@
   },
   {
     "full_name": "naiveHobo/InvoiceNet",
-    "stargazers_count": 2619,
+    "stargazers_count": 2624,
     "open_issues_count": 72,
-    "forks_count": 408
+    "forks_count": 410
   },
   {
     "full_name": "Jeevan-J/Speaker-voice-Recognition-using-MFCC-algorithm-in-matlab",
