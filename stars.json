@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "tmc/langchaingo",
+    "stargazers_count": 7408,
+    "open_issues_count": 375,
+    "forks_count": 921
+  },
+  {
     "full_name": "keycloakify/keycloakify",
-    "stargazers_count": 2074,
+    "stargazers_count": 2078,
     "open_issues_count": 54,
-    "forks_count": 226
+    "forks_count": 225
   },
   {
     "full_name": "nima70/keycloakify-tailwind-shadcn",
@@ -13,27 +19,27 @@
   },
   {
     "full_name": "presenton/presenton",
-    "stargazers_count": 1601,
-    "open_issues_count": 28,
-    "forks_count": 262
+    "stargazers_count": 1675,
+    "open_issues_count": 30,
+    "forks_count": 273
   },
   {
     "full_name": "juspay/hyperswitch",
-    "stargazers_count": 24173,
-    "open_issues_count": 984,
-    "forks_count": 3929
+    "stargazers_count": 24510,
+    "open_issues_count": 988,
+    "forks_count": 3932
   },
   {
     "full_name": "QwenLM/Qwen3-Coder",
-    "stargazers_count": 12051,
-    "open_issues_count": 60,
-    "forks_count": 820
+    "stargazers_count": 12289,
+    "open_issues_count": 65,
+    "forks_count": 834
   },
   {
     "full_name": "aaPanel/BillionMail",
-    "stargazers_count": 8613,
-    "open_issues_count": 118,
-    "forks_count": 730
+    "stargazers_count": 8843,
+    "open_issues_count": 121,
+    "forks_count": 763
   },
   {
     "full_name": "fjwillemsen/Apple-Store-Stock-Notifier",
@@ -55,8 +61,8 @@
   },
   {
     "full_name": "arangodb/arangodb",
-    "stargazers_count": 13888,
-    "open_issues_count": 780,
+    "stargazers_count": 13895,
+    "open_issues_count": 781,
     "forks_count": 859
   },
   {
@@ -73,7 +79,7 @@
   },
   {
     "full_name": "naiveHobo/InvoiceNet",
-    "stargazers_count": 2626,
+    "stargazers_count": 2627,
     "open_issues_count": 72,
     "forks_count": 410
   },
