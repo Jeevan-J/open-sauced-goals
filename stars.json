@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "pAI-OS/paios",
+    "stargazers_count": 36,
+    "open_issues_count": 11,
+    "forks_count": 16
+  },
+  {
     "full_name": "tmc/langchaingo",
-    "stargazers_count": 7408,
-    "open_issues_count": 375,
-    "forks_count": 921
+    "stargazers_count": 7431,
+    "open_issues_count": 365,
+    "forks_count": 922
   },
   {
     "full_name": "keycloakify/keycloakify",
-    "stargazers_count": 2078,
-    "open_issues_count": 54,
-    "forks_count": 225
+    "stargazers_count": 2083,
+    "open_issues_count": 55,
+    "forks_count": 226
   },
   {
     "full_name": "nima70/keycloakify-tailwind-shadcn",
@@ -19,27 +25,27 @@
   },
   {
     "full_name": "presenton/presenton",
-    "stargazers_count": 1675,
-    "open_issues_count": 30,
-    "forks_count": 273
+    "stargazers_count": 1725,
+    "open_issues_count": 31,
+    "forks_count": 285
   },
   {
     "full_name": "juspay/hyperswitch",
-    "stargazers_count": 24510,
-    "open_issues_count": 988,
-    "forks_count": 3932
+    "stargazers_count": 24516,
+    "open_issues_count": 984,
+    "forks_count": 3930
   },
   {
     "full_name": "QwenLM/Qwen3-Coder",
-    "stargazers_count": 12289,
+    "stargazers_count": 12468,
     "open_issues_count": 65,
-    "forks_count": 834
+    "forks_count": 852
   },
   {
     "full_name": "aaPanel/BillionMail",
-    "stargazers_count": 8843,
-    "open_issues_count": 121,
-    "forks_count": 763
+    "stargazers_count": 9442,
+    "open_issues_count": 125,
+    "forks_count": 809
   },
   {
     "full_name": "fjwillemsen/Apple-Store-Stock-Notifier",
@@ -61,8 +67,8 @@
   },
   {
     "full_name": "arangodb/arangodb",
-    "stargazers_count": 13895,
-    "open_issues_count": 781,
+    "stargazers_count": 13898,
+    "open_issues_count": 783,
     "forks_count": 859
   },
   {
@@ -79,9 +85,9 @@
   },
   {
     "full_name": "naiveHobo/InvoiceNet",
-    "stargazers_count": 2627,
+    "stargazers_count": 2626,
     "open_issues_count": 72,
-    "forks_count": 410
+    "forks_count": 411
   },
   {
     "full_name": "Jeevan-J/Speaker-voice-Recognition-using-MFCC-algorithm-in-matlab",
