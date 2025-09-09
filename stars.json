@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "ibbybuilds/aegra",
+    "stargazers_count": 113,
+    "open_issues_count": 10,
+    "forks_count": 17
+  },
+  {
     "full_name": "pAI-OS/paios",
     "stargazers_count": 36,
     "open_issues_count": 11,
@@ -7,13 +13,13 @@
   },
   {
     "full_name": "tmc/langchaingo",
-    "stargazers_count": 7547,
-    "open_issues_count": 365,
-    "forks_count": 938
+    "stargazers_count": 7579,
+    "open_issues_count": 360,
+    "forks_count": 940
   },
   {
     "full_name": "keycloakify/keycloakify",
-    "stargazers_count": 2100,
+    "stargazers_count": 2106,
     "open_issues_count": 59,
     "forks_count": 228
   },
@@ -25,27 +31,27 @@
   },
   {
     "full_name": "presenton/presenton",
-    "stargazers_count": 1898,
-    "open_issues_count": 40,
-    "forks_count": 323
+    "stargazers_count": 1932,
+    "open_issues_count": 43,
+    "forks_count": 334
   },
   {
     "full_name": "juspay/hyperswitch",
-    "stargazers_count": 26534,
-    "open_issues_count": 1110,
-    "forks_count": 4002
+    "stargazers_count": 31578,
+    "open_issues_count": 1113,
+    "forks_count": 4128
   },
   {
     "full_name": "QwenLM/Qwen3-Coder",
-    "stargazers_count": 13140,
-    "open_issues_count": 73,
-    "forks_count": 903
+    "stargazers_count": 13258,
+    "open_issues_count": 77,
+    "forks_count": 916
   },
   {
     "full_name": "aaPanel/BillionMail",
-    "stargazers_count": 9606,
-    "open_issues_count": 138,
-    "forks_count": 846
+    "stargazers_count": 9648,
+    "open_issues_count": 146,
+    "forks_count": 852
   },
   {
     "full_name": "fjwillemsen/Apple-Store-Stock-Notifier",
@@ -61,15 +67,15 @@
   },
   {
     "full_name": "pyeve/eve",
-    "stargazers_count": 6729,
+    "stargazers_count": 6732,
     "open_issues_count": 31,
-    "forks_count": 747
+    "forks_count": 746
   },
   {
     "full_name": "arangodb/arangodb",
-    "stargazers_count": 13904,
-    "open_issues_count": 788,
-    "forks_count": 863
+    "stargazers_count": 13909,
+    "open_issues_count": 793,
+    "forks_count": 862
   },
   {
     "full_name": "CryptoNifters/lens-protocol",
@@ -85,7 +91,7 @@
   },
   {
     "full_name": "naiveHobo/InvoiceNet",
-    "stargazers_count": 2634,
+    "stargazers_count": 2636,
     "open_issues_count": 72,
     "forks_count": 411
   },
