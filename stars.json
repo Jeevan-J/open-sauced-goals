@@ -1,25 +1,25 @@
 [
   {
     "full_name": "ibbybuilds/aegra",
-    "stargazers_count": 113,
-    "open_issues_count": 10,
-    "forks_count": 17
+    "stargazers_count": 133,
+    "open_issues_count": 7,
+    "forks_count": 20
   },
   {
     "full_name": "pAI-OS/paios",
     "stargazers_count": 36,
     "open_issues_count": 11,
-    "forks_count": 16
+    "forks_count": 17
   },
   {
     "full_name": "tmc/langchaingo",
-    "stargazers_count": 7579,
-    "open_issues_count": 360,
+    "stargazers_count": 7586,
+    "open_issues_count": 357,
     "forks_count": 940
   },
   {
     "full_name": "keycloakify/keycloakify",
-    "stargazers_count": 2106,
+    "stargazers_count": 2107,
     "open_issues_count": 59,
     "forks_count": 228
   },
@@ -27,31 +27,31 @@
     "full_name": "nima70/keycloakify-tailwind-shadcn",
     "stargazers_count": 26,
     "open_issues_count": 1,
-    "forks_count": 19
+    "forks_count": 18
   },
   {
     "full_name": "presenton/presenton",
-    "stargazers_count": 1932,
-    "open_issues_count": 43,
-    "forks_count": 334
+    "stargazers_count": 1961,
+    "open_issues_count": 44,
+    "forks_count": 338
   },
   {
     "full_name": "juspay/hyperswitch",
-    "stargazers_count": 31578,
-    "open_issues_count": 1113,
-    "forks_count": 4128
+    "stargazers_count": 33717,
+    "open_issues_count": 1121,
+    "forks_count": 4185
   },
   {
     "full_name": "QwenLM/Qwen3-Coder",
-    "stargazers_count": 13258,
-    "open_issues_count": 77,
-    "forks_count": 916
+    "stargazers_count": 13335,
+    "open_issues_count": 78,
+    "forks_count": 923
   },
   {
     "full_name": "aaPanel/BillionMail",
-    "stargazers_count": 9648,
-    "open_issues_count": 146,
-    "forks_count": 852
+    "stargazers_count": 10246,
+    "open_issues_count": 148,
+    "forks_count": 909
   },
   {
     "full_name": "fjwillemsen/Apple-Store-Stock-Notifier",
@@ -67,15 +67,15 @@
   },
   {
     "full_name": "pyeve/eve",
-    "stargazers_count": 6732,
+    "stargazers_count": 6733,
     "open_issues_count": 31,
     "forks_count": 746
   },
   {
     "full_name": "arangodb/arangodb",
-    "stargazers_count": 13909,
+    "stargazers_count": 13910,
     "open_issues_count": 793,
-    "forks_count": 862
+    "forks_count": 864
   },
   {
     "full_name": "CryptoNifters/lens-protocol",
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "naiveHobo/InvoiceNet",
-    "stargazers_count": 2636,
+    "stargazers_count": 2639,
     "open_issues_count": 72,
     "forks_count": 411
   },
