@@ -1,8 +1,14 @@
 [
   {
+    "full_name": "ItzCrazyKns/Perplexica",
+    "stargazers_count": 25417,
+    "open_issues_count": 194,
+    "forks_count": 2629
+  },
+  {
     "full_name": "ibbybuilds/aegra",
-    "stargazers_count": 148,
-    "open_issues_count": 12,
+    "stargazers_count": 159,
+    "open_issues_count": 8,
     "forks_count": 22
   },
   {
@@ -13,15 +19,15 @@
   },
   {
     "full_name": "tmc/langchaingo",
-    "stargazers_count": 7626,
+    "stargazers_count": 7646,
     "open_issues_count": 352,
-    "forks_count": 941
+    "forks_count": 944
   },
   {
     "full_name": "keycloakify/keycloakify",
-    "stargazers_count": 2112,
-    "open_issues_count": 60,
-    "forks_count": 231
+    "stargazers_count": 2115,
+    "open_issues_count": 61,
+    "forks_count": 232
   },
   {
     "full_name": "nima70/keycloakify-tailwind-shadcn",
@@ -31,27 +37,27 @@
   },
   {
     "full_name": "presenton/presenton",
-    "stargazers_count": 2059,
-    "open_issues_count": 25,
-    "forks_count": 353
+    "stargazers_count": 2154,
+    "open_issues_count": 28,
+    "forks_count": 371
   },
   {
     "full_name": "juspay/hyperswitch",
-    "stargazers_count": 33992,
-    "open_issues_count": 1139,
-    "forks_count": 4188
+    "stargazers_count": 34098,
+    "open_issues_count": 1125,
+    "forks_count": 4200
   },
   {
     "full_name": "QwenLM/Qwen3-Coder",
-    "stargazers_count": 13424,
+    "stargazers_count": 13482,
     "open_issues_count": 81,
-    "forks_count": 929
+    "forks_count": 935
   },
   {
     "full_name": "aaPanel/BillionMail",
-    "stargazers_count": 10774,
-    "open_issues_count": 149,
-    "forks_count": 957
+    "stargazers_count": 10958,
+    "open_issues_count": 154,
+    "forks_count": 988
   },
   {
     "full_name": "fjwillemsen/Apple-Store-Stock-Notifier",
@@ -67,14 +73,14 @@
   },
   {
     "full_name": "pyeve/eve",
-    "stargazers_count": 6734,
+    "stargazers_count": 6735,
     "open_issues_count": 31,
     "forks_count": 746
   },
   {
     "full_name": "arangodb/arangodb",
-    "stargazers_count": 13917,
-    "open_issues_count": 791,
+    "stargazers_count": 13919,
+    "open_issues_count": 792,
     "forks_count": 864
   },
   {
@@ -91,9 +97,9 @@
   },
   {
     "full_name": "naiveHobo/InvoiceNet",
-    "stargazers_count": 2640,
+    "stargazers_count": 2642,
     "open_issues_count": 72,
-    "forks_count": 411
+    "forks_count": 412
   },
   {
     "full_name": "Jeevan-J/Speaker-voice-Recognition-using-MFCC-algorithm-in-matlab",
