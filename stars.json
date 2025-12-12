@@ -1,105 +1,105 @@
 [
   {
     "full_name": "microsoft/agent-framework",
-    "stargazers_count": 5722,
-    "open_issues_count": 525,
-    "forks_count": 872
+    "stargazers_count": 5809,
+    "open_issues_count": 556,
+    "forks_count": 887
   },
   {
     "full_name": "chaitin/SafeLine",
-    "stargazers_count": 19517,
-    "open_issues_count": 52,
-    "forks_count": 1227
+    "stargazers_count": 19551,
+    "open_issues_count": 53,
+    "forks_count": 1229
   },
   {
     "full_name": "pulumi/pulumi",
-    "stargazers_count": 24300,
-    "open_issues_count": 2435,
-    "forks_count": 1271
+    "stargazers_count": 24326,
+    "open_issues_count": 2434,
+    "forks_count": 1270
   },
   {
     "full_name": "hashicorp/terraform",
-    "stargazers_count": 47229,
-    "open_issues_count": 1913,
-    "forks_count": 10138
+    "stargazers_count": 47261,
+    "open_issues_count": 1915,
+    "forks_count": 10142
   },
   {
     "full_name": "hashicorp/consul",
-    "stargazers_count": 29590,
-    "open_issues_count": 1354,
-    "forks_count": 4548
+    "stargazers_count": 29600,
+    "open_issues_count": 1350,
+    "forks_count": 4551
   },
   {
     "full_name": "browserbase/stagehand",
-    "stargazers_count": 19338,
-    "open_issues_count": 133,
-    "forks_count": 1263
+    "stargazers_count": 19407,
+    "open_issues_count": 126,
+    "forks_count": 1270
   },
   {
     "full_name": "microsoft/RD-Agent",
-    "stargazers_count": 9709,
-    "open_issues_count": 127,
-    "forks_count": 1053
+    "stargazers_count": 9749,
+    "open_issues_count": 126,
+    "forks_count": 1070
   },
   {
     "full_name": "xyflow/xyflow",
-    "stargazers_count": 34123,
-    "open_issues_count": 107,
-    "forks_count": 2235
+    "stargazers_count": 34178,
+    "open_issues_count": 110,
+    "forks_count": 2239
   },
   {
     "full_name": "microsoft/BitNet",
-    "stargazers_count": 24450,
+    "stargazers_count": 24452,
     "open_issues_count": 165,
-    "forks_count": 1910
+    "forks_count": 1912
   },
   {
     "full_name": "NVIDIA/garak",
-    "stargazers_count": 6520,
-    "open_issues_count": 298,
-    "forks_count": 711
+    "stargazers_count": 6553,
+    "open_issues_count": 305,
+    "forks_count": 718
   },
   {
     "full_name": "HKUDS/RAG-Anything",
-    "stargazers_count": 10787,
-    "open_issues_count": 93,
-    "forks_count": 1283
+    "stargazers_count": 10909,
+    "open_issues_count": 92,
+    "forks_count": 1298
   },
   {
     "full_name": "bytedance/Dolphin",
-    "stargazers_count": 7892,
+    "stargazers_count": 7908,
     "open_issues_count": 66,
-    "forks_count": 651
+    "forks_count": 655
   },
   {
     "full_name": "onyx-dot-app/onyx",
-    "stargazers_count": 16737,
-    "open_issues_count": 268,
-    "forks_count": 2240
+    "stargazers_count": 16763,
+    "open_issues_count": 278,
+    "forks_count": 2247
   },
   {
     "full_name": "CorentinJ/Real-Time-Voice-Cloning",
-    "stargazers_count": 58984,
-    "open_issues_count": 172,
-    "forks_count": 9390
+    "stargazers_count": 58995,
+    "open_issues_count": 173,
+    "forks_count": 9391
   },
   {
     "full_name": "fastapi/fastapi",
-    "stargazers_count": 92872,
-    "open_issues_count": 192,
-    "forks_count": 8342
+    "stargazers_count": 93001,
+    "open_issues_count": 184,
+    "forks_count": 8350
   },
   {
     "full_name": "ItzCrazyKns/Perplexica",
-    "stargazers_count": 27588,
-    "open_issues_count": 205,
-    "forks_count": 2876
+    "stargazers_count": 27623,
+    "open_issues_count": 209,
+    "forks_count": 2887
   },
   {
     "full_name": "ibbybuilds/aegra",
-    "stargazers_count": 410,
+    "stargazers_count": 423,
     "open_issues_count": 15,
-    "forks_count": 76
+    "forks_count": 77
   },
   {
     "full_name": "pAI-OS/paios",
@@ -109,14 +109,14 @@
   },
   {
     "full_name": "tmc/langchaingo",
-    "stargazers_count": 8178,
-    "open_issues_count": 365,
-    "forks_count": 991
+    "stargazers_count": 8205,
+    "open_issues_count": 367,
+    "forks_count": 992
   },
   {
     "full_name": "keycloakify/keycloakify",
-    "stargazers_count": 2234,
-    "open_issues_count": 69,
+    "stargazers_count": 2243,
+    "open_issues_count": 70,
     "forks_count": 250
   },
   {
@@ -127,33 +127,33 @@
   },
   {
     "full_name": "presenton/presenton",
-    "stargazers_count": 3235,
+    "stargazers_count": 3291,
     "open_issues_count": 52,
-    "forks_count": 616
+    "forks_count": 634
   },
   {
     "full_name": "juspay/hyperswitch",
     "stargazers_count": 39323,
-    "open_issues_count": 1331,
-    "forks_count": 4557
+    "open_issues_count": 1340,
+    "forks_count": 4558
   },
   {
     "full_name": "QwenLM/Qwen3-Coder",
-    "stargazers_count": 14566,
+    "stargazers_count": 14601,
     "open_issues_count": 95,
-    "forks_count": 1018
+    "forks_count": 1021
   },
   {
     "full_name": "Billionmail/BillionMail",
-    "stargazers_count": 12403,
+    "stargazers_count": 12417,
     "open_issues_count": 192,
-    "forks_count": 1183
+    "forks_count": 1186
   },
   {
     "full_name": "fjwillemsen/Apple-Store-Stock-Notifier",
     "stargazers_count": 70,
     "open_issues_count": 7,
-    "forks_count": 15
+    "forks_count": 14
   },
   {
     "full_name": "imSanjaySoni/NoteApp-Clean-Architecture",
@@ -163,15 +163,15 @@
   },
   {
     "full_name": "pyeve/eve",
-    "stargazers_count": 6742,
+    "stargazers_count": 6743,
     "open_issues_count": 35,
-    "forks_count": 744
+    "forks_count": 743
   },
   {
     "full_name": "arangodb/arangodb",
-    "stargazers_count": 14032,
-    "open_issues_count": 810,
-    "forks_count": 874
+    "stargazers_count": 14033,
+    "open_issues_count": 808,
+    "forks_count": 875
   },
   {
     "full_name": "CryptoNifters/lens-protocol",
