@@ -1,129 +1,129 @@
 [
   {
-    "full_name": "sammargolis/OpenScribe",
-    "stargazers_count": 61,
-    "open_issues_count": 16,
-    "forks_count": 15
+    "full_name": "Open-scribe/OpenScribe",
+    "stargazers_count": 63,
+    "open_issues_count": 15,
+    "forks_count": 18
   },
   {
     "full_name": "microsoft/agent-framework",
-    "stargazers_count": 7399,
-    "open_issues_count": 711,
-    "forks_count": 1211
+    "stargazers_count": 7503,
+    "open_issues_count": 681,
+    "forks_count": 1224
   },
   {
     "full_name": "chaitin/SafeLine",
-    "stargazers_count": 20738,
+    "stargazers_count": 20764,
     "open_issues_count": 77,
-    "forks_count": 1339
+    "forks_count": 1341
   },
   {
     "full_name": "pulumi/pulumi",
-    "stargazers_count": 24817,
-    "open_issues_count": 2476,
-    "forks_count": 1318
+    "stargazers_count": 24840,
+    "open_issues_count": 2479,
+    "forks_count": 1321
   },
   {
     "full_name": "hashicorp/terraform",
-    "stargazers_count": 47807,
-    "open_issues_count": 1923,
-    "forks_count": 10222
+    "stargazers_count": 47827,
+    "open_issues_count": 1922,
+    "forks_count": 10224
   },
   {
     "full_name": "hashicorp/consul",
-    "stargazers_count": 29751,
-    "open_issues_count": 1367,
-    "forks_count": 4566
+    "stargazers_count": 29758,
+    "open_issues_count": 1373,
+    "forks_count": 4569
   },
   {
     "full_name": "browserbase/stagehand",
-    "stargazers_count": 21217,
-    "open_issues_count": 151,
-    "forks_count": 1389
+    "stargazers_count": 21261,
+    "open_issues_count": 157,
+    "forks_count": 1394
   },
   {
     "full_name": "microsoft/RD-Agent",
-    "stargazers_count": 11332,
-    "open_issues_count": 136,
-    "forks_count": 1303
+    "stargazers_count": 11388,
+    "open_issues_count": 135,
+    "forks_count": 1308
   },
   {
     "full_name": "xyflow/xyflow",
-    "stargazers_count": 35323,
-    "open_issues_count": 113,
-    "forks_count": 2309
+    "stargazers_count": 35378,
+    "open_issues_count": 116,
+    "forks_count": 2311
   },
   {
     "full_name": "microsoft/BitNet",
-    "stargazers_count": 28575,
-    "open_issues_count": 209,
-    "forks_count": 2347
+    "stargazers_count": 28621,
+    "open_issues_count": 211,
+    "forks_count": 2352
   },
   {
     "full_name": "NVIDIA/garak",
-    "stargazers_count": 7048,
-    "open_issues_count": 303,
-    "forks_count": 788
+    "stargazers_count": 7074,
+    "open_issues_count": 302,
+    "forks_count": 797
   },
   {
     "full_name": "HKUDS/RAG-Anything",
-    "stargazers_count": 13709,
+    "stargazers_count": 13799,
     "open_issues_count": 107,
-    "forks_count": 1639
+    "forks_count": 1648
   },
   {
     "full_name": "bytedance/Dolphin",
-    "stargazers_count": 8826,
+    "stargazers_count": 8846,
     "open_issues_count": 73,
-    "forks_count": 741
+    "forks_count": 745
   },
   {
     "full_name": "onyx-dot-app/onyx",
-    "stargazers_count": 17540,
-    "open_issues_count": 269,
-    "forks_count": 2376
+    "stargazers_count": 17589,
+    "open_issues_count": 264,
+    "forks_count": 2383
   },
   {
     "full_name": "CorentinJ/Real-Time-Voice-Cloning",
-    "stargazers_count": 59368,
+    "stargazers_count": 59384,
     "open_issues_count": 169,
-    "forks_count": 9407
+    "forks_count": 9409
   },
   {
     "full_name": "fastapi/fastapi",
-    "stargazers_count": 95498,
-    "open_issues_count": 149,
-    "forks_count": 8740
+    "stargazers_count": 95621,
+    "open_issues_count": 150,
+    "forks_count": 8754
   },
   {
     "full_name": "ItzCrazyKns/Perplexica",
-    "stargazers_count": 29051,
-    "open_issues_count": 231,
+    "stargazers_count": 29098,
+    "open_issues_count": 232,
     "forks_count": 3082
   },
   {
     "full_name": "ibbybuilds/aegra",
-    "stargazers_count": 637,
-    "open_issues_count": 15,
-    "forks_count": 120
+    "stargazers_count": 643,
+    "open_issues_count": 17,
+    "forks_count": 122
   },
   {
     "full_name": "pAI-OS/paios",
-    "stargazers_count": 41,
+    "stargazers_count": 42,
     "open_issues_count": 11,
     "forks_count": 20
   },
   {
     "full_name": "tmc/langchaingo",
-    "stargazers_count": 8689,
-    "open_issues_count": 392,
-    "forks_count": 1040
+    "stargazers_count": 8719,
+    "open_issues_count": 393,
+    "forks_count": 1041
   },
   {
     "full_name": "keycloakify/keycloakify",
-    "stargazers_count": 2353,
+    "stargazers_count": 2359,
     "open_issues_count": 71,
-    "forks_count": 259
+    "forks_count": 260
   },
   {
     "full_name": "nima70/keycloakify-tailwind-shadcn",
@@ -133,27 +133,27 @@
   },
   {
     "full_name": "presenton/presenton",
-    "stargazers_count": 4059,
+    "stargazers_count": 4144,
     "open_issues_count": 78,
-    "forks_count": 793
+    "forks_count": 806
   },
   {
     "full_name": "juspay/hyperswitch",
-    "stargazers_count": 40522,
-    "open_issues_count": 1413,
-    "forks_count": 4562
+    "stargazers_count": 40748,
+    "open_issues_count": 1425,
+    "forks_count": 4563
   },
   {
     "full_name": "QwenLM/Qwen3-Coder",
-    "stargazers_count": 15690,
-    "open_issues_count": 112,
-    "forks_count": 1096
+    "stargazers_count": 15765,
+    "open_issues_count": 113,
+    "forks_count": 1101
   },
   {
     "full_name": "Billionmail/BillionMail",
-    "stargazers_count": 13548,
+    "stargazers_count": 13573,
     "open_issues_count": 216,
-    "forks_count": 1386
+    "forks_count": 1387
   },
   {
     "full_name": "fjwillemsen/Apple-Store-Stock-Notifier",
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "imSanjaySoni/NoteApp-Clean-Architecture",
-    "stargazers_count": 193,
+    "stargazers_count": 194,
     "open_issues_count": 0,
     "forks_count": 25
   },
   {
     "full_name": "pyeve/eve",
-    "stargazers_count": 6754,
+    "stargazers_count": 6748,
     "open_issues_count": 38,
-    "forks_count": 738
+    "forks_count": 736
   },
   {
     "full_name": "arangodb/arangodb",
-    "stargazers_count": 14093,
-    "open_issues_count": 795,
-    "forks_count": 875
+    "stargazers_count": 14090,
+    "open_issues_count": 799,
+    "forks_count": 876
   }
 ]
