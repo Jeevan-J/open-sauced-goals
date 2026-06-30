@@ -1,182 +1,182 @@
 [
   {
     "full_name": "danielmiessler/Fabric",
-    "stargazers_count": 42642,
-    "open_issues_count": 64,
-    "forks_count": 4195
+    "stargazers_count": 42718,
+    "open_issues_count": 66,
+    "forks_count": 4201
   },
   {
     "full_name": "microsoft/agent-governance-toolkit",
-    "stargazers_count": 4519,
-    "open_issues_count": 53,
-    "forks_count": 647
+    "stargazers_count": 4550,
+    "open_issues_count": 63,
+    "forks_count": 653
   },
   {
     "full_name": "HKUDS/AI-Trader",
-    "stargazers_count": 20122,
+    "stargazers_count": 20268,
     "open_issues_count": 26,
-    "forks_count": 3080
+    "forks_count": 3103
   },
   {
     "full_name": "langchain-ai/deepagents",
-    "stargazers_count": 25127,
-    "open_issues_count": 150,
-    "forks_count": 3549
+    "stargazers_count": 25339,
+    "open_issues_count": 159,
+    "forks_count": 3580
   },
   {
     "full_name": "CopilotKit/CopilotKit",
-    "stargazers_count": 35519,
-    "open_issues_count": 608,
-    "forks_count": 4403
+    "stargazers_count": 35644,
+    "open_issues_count": 621,
+    "forks_count": 4415
   },
   {
     "full_name": "headroomlabs-ai/headroom",
-    "stargazers_count": 51111,
-    "open_issues_count": 399,
-    "forks_count": 3615
+    "stargazers_count": 53944,
+    "open_issues_count": 441,
+    "forks_count": 3874
   },
   {
     "full_name": "supermemoryai/supermemory",
-    "stargazers_count": 27556,
-    "open_issues_count": 25,
-    "forks_count": 2386
+    "stargazers_count": 27938,
+    "open_issues_count": 29,
+    "forks_count": 2413
   },
   {
     "full_name": "aquasecurity/trivy",
-    "stargazers_count": 36609,
-    "open_issues_count": 237,
-    "forks_count": 498
+    "stargazers_count": 36654,
+    "open_issues_count": 233,
+    "forks_count": 508
   },
   {
     "full_name": "HKUDS/ViMax",
-    "stargazers_count": 10647,
+    "stargazers_count": 10764,
     "open_issues_count": 36,
-    "forks_count": 1553
+    "forks_count": 1569
   },
   {
     "full_name": "jamiepine/voicebox",
-    "stargazers_count": 34229,
-    "open_issues_count": 485,
-    "forks_count": 4116
+    "stargazers_count": 35945,
+    "open_issues_count": 489,
+    "forks_count": 4304
   },
   {
     "full_name": "ruvnet/ruflo",
-    "stargazers_count": 61474,
-    "open_issues_count": 680,
-    "forks_count": 7149
+    "stargazers_count": 62098,
+    "open_issues_count": 692,
+    "forks_count": 7271
   },
   {
     "full_name": "tinyhumansai/openhuman",
-    "stargazers_count": 32969,
-    "open_issues_count": 129,
-    "forks_count": 3201
+    "stargazers_count": 33880,
+    "open_issues_count": 208,
+    "forks_count": 3280
   },
   {
     "full_name": "influxdata/telegraf",
-    "stargazers_count": 17652,
-    "open_issues_count": 388,
-    "forks_count": 5821
+    "stargazers_count": 17669,
+    "open_issues_count": 399,
+    "forks_count": 5824
   },
   {
     "full_name": "anthropics/financial-services",
-    "stargazers_count": 32561,
-    "open_issues_count": 165,
-    "forks_count": 4723
+    "stargazers_count": 32776,
+    "open_issues_count": 167,
+    "forks_count": 4765
   },
   {
     "full_name": "ruvnet/RuView",
-    "stargazers_count": 75501,
-    "open_issues_count": 282,
-    "forks_count": 10081
+    "stargazers_count": 75912,
+    "open_issues_count": 298,
+    "forks_count": 10157
   },
   {
     "full_name": "multica-ai/multica",
-    "stargazers_count": 38046,
-    "open_issues_count": 1063,
-    "forks_count": 4714
+    "stargazers_count": 38461,
+    "open_issues_count": 1126,
+    "forks_count": 4801
   },
   {
     "full_name": "thedotmack/claude-mem",
-    "stargazers_count": 84306,
-    "open_issues_count": 219,
-    "forks_count": 7272
+    "stargazers_count": 85083,
+    "open_issues_count": 228,
+    "forks_count": 7345
   },
   {
     "full_name": "Tracer-Cloud/opensre",
-    "stargazers_count": 7526,
-    "open_issues_count": 85,
-    "forks_count": 989
+    "stargazers_count": 7737,
+    "open_issues_count": 115,
+    "forks_count": 1020
   },
   {
     "full_name": "BasedHardware/omi",
-    "stargazers_count": 12883,
-    "open_issues_count": 492,
-    "forks_count": 2066
+    "stargazers_count": 12903,
+    "open_issues_count": 532,
+    "forks_count": 2080
   },
   {
     "full_name": "NousResearch/hermes-agent",
-    "stargazers_count": 203123,
-    "open_issues_count": 23699,
-    "forks_count": 36366
+    "stargazers_count": 205786,
+    "open_issues_count": 24507,
+    "forks_count": 37180
   },
   {
     "full_name": "OpenBMB/VoxCPM",
-    "stargazers_count": 31709,
-    "open_issues_count": 119,
-    "forks_count": 3583
+    "stargazers_count": 32145,
+    "open_issues_count": 118,
+    "forks_count": 3650
   },
   {
     "full_name": "HKUDS/DeepTutor",
-    "stargazers_count": 25013,
-    "open_issues_count": 43,
-    "forks_count": 3401
+    "stargazers_count": 25115,
+    "open_issues_count": 44,
+    "forks_count": 3422
   },
   {
     "full_name": "microsoft/VibeVoice",
-    "stargazers_count": 49625,
+    "stargazers_count": 49750,
     "open_issues_count": 174,
-    "forks_count": 5539
+    "forks_count": 5556
   },
   {
     "full_name": "Fincept-Corporation/FinceptTerminal",
-    "stargazers_count": 27490,
-    "open_issues_count": 23,
-    "forks_count": 3851
+    "stargazers_count": 27665,
+    "open_issues_count": 25,
+    "forks_count": 3879
   },
   {
     "full_name": "microsoft/markitdown",
-    "stargazers_count": 159196,
-    "open_issues_count": 865,
-    "forks_count": 11135
+    "stargazers_count": 161303,
+    "open_issues_count": 825,
+    "forks_count": 11347
   },
   {
     "full_name": "TauricResearch/TradingAgents",
-    "stargazers_count": 88561,
-    "open_issues_count": 276,
-    "forks_count": 17108
+    "stargazers_count": 89772,
+    "open_issues_count": 284,
+    "forks_count": 17327
   },
   {
     "full_name": "gsd-build/get-shit-done",
-    "stargazers_count": 64520,
-    "open_issues_count": 14,
-    "forks_count": 5470
+    "stargazers_count": 64578,
+    "open_issues_count": 0,
+    "forks_count": 5478
   },
   {
     "full_name": "affaan-m/ECC",
-    "stargazers_count": 221775,
-    "open_issues_count": 86,
-    "forks_count": 33953
+    "stargazers_count": 223527,
+    "open_issues_count": 61,
+    "forks_count": 34223
   },
   {
     "full_name": "sammargolis/OpenScribe",
-    "stargazers_count": 186,
+    "stargazers_count": 187,
     "open_issues_count": 11,
-    "forks_count": 40
+    "forks_count": 41
   },
   {
     "full_name": "microsoft/agent-framework",
-    "stargazers_count": 11668,
-    "open_issues_count": 661,
-    "forks_count": 1966
+    "stargazers_count": 11759,
+    "open_issues_count": 673,
+    "forks_count": 1979
   }
 ]
